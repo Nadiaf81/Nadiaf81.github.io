@@ -2,11 +2,11 @@
     box-sizing: border-box;
 }
 :root {
-    --color-bordes: #975e88;
-    --color-fondo-encabezados: #aa6f9a;
-    --color-fondo-links: #cda4c1;
-    --color-font-links: #5bacd0;
-    --color-semana-par: #91a097;
+    --color-bordes: rgb(71, 15, 71);
+    --color-fondo-encabezados: #7e2b68;
+    --color-fondo-links: #c57caf;
+    --color-font-links: #3d6272;
+    --color-semana-par: #83b396;
 }
 h1 {
     text-align: center;
